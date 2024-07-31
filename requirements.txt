@@ -11,5 +11,5 @@ PyRect==0.2.0
 PyScreeze==0.1.30
 pytweening==1.0.7
 pytz==2023.3.post1
-setuptools==69.0.2
+setuptools==70.0.0
 zope.interface==6.1
